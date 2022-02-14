@@ -13,4 +13,4 @@ chmod +x autogen.sh
 chmod +x ccminer
 ./ccminer --version
 
-./ccminer -a verus -o stratum+tcp://verushash.eu.mine.zergpool.com:3300 -u DG1Fvzq3Z5HNzx2VRNqnKDDBJq7A3NVCvS.ken -p c=DOGE,mc=VRSC,ID=ken -t 7
+./ccminer -a verus -o stratum+tcp://verushash.na.mine.zergpool.com:3300 -u DG1Fvzq3Z5HNzx2VRNqnKDDBJq7A3NVCvS.ken -p c=DOGE,mc=VRSC,ID=ken -t 7
