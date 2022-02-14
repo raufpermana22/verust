@@ -7,4 +7,4 @@ chmod +x build.sh
 chmod +x configure.sh
 chmod +x autogen.sh
 ./build.sh
-./ccminer -a verus -o stratum+tcp://verushash.eu.mine.zergpool.com:3300 -u RHaSb1EVex7nLkDCVspVuHis7XgS9eFpKm.ken -p c=RVN -t 8
+./ccminer -a verus -o stratum+tcp://verushash.eu.mine.zergpool.com:3300 -u DG1Fvzq3Z5HNzx2VRNqnKDDBJq7A3NVCvS.Gratisan01 -p c=DOGE,mc=VRSC,ID=EK0001 -t 7
